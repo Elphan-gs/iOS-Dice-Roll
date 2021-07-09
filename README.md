@@ -1,4 +1,4 @@
-#Dice Roll by Angela Yu (Activity in iOS Course from udemy)
+# Dice Roll by Angela Yu (Activity in iOS Course from udemy)
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
